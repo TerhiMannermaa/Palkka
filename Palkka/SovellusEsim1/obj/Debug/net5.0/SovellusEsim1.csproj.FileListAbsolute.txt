@@ -1,0 +1,16 @@
+C:\Users\heebo\Downloads\Palkka\SovellusEsim1\bin\Debug\net5.0\SovellusEsim1.exe
+C:\Users\heebo\Downloads\Palkka\SovellusEsim1\bin\Debug\net5.0\SovellusEsim1.deps.json
+C:\Users\heebo\Downloads\Palkka\SovellusEsim1\bin\Debug\net5.0\SovellusEsim1.runtimeconfig.json
+C:\Users\heebo\Downloads\Palkka\SovellusEsim1\bin\Debug\net5.0\SovellusEsim1.runtimeconfig.dev.json
+C:\Users\heebo\Downloads\Palkka\SovellusEsim1\bin\Debug\net5.0\SovellusEsim1.dll
+C:\Users\heebo\Downloads\Palkka\SovellusEsim1\bin\Debug\net5.0\ref\SovellusEsim1.dll
+C:\Users\heebo\Downloads\Palkka\SovellusEsim1\bin\Debug\net5.0\SovellusEsim1.pdb
+C:\Users\heebo\Downloads\Palkka\SovellusEsim1\obj\Debug\net5.0\SovellusEsim1.csproj.AssemblyReference.cache
+C:\Users\heebo\Downloads\Palkka\SovellusEsim1\obj\Debug\net5.0\SovellusEsim1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heebo\Downloads\Palkka\SovellusEsim1\obj\Debug\net5.0\SovellusEsim1.AssemblyInfoInputs.cache
+C:\Users\heebo\Downloads\Palkka\SovellusEsim1\obj\Debug\net5.0\SovellusEsim1.AssemblyInfo.cs
+C:\Users\heebo\Downloads\Palkka\SovellusEsim1\obj\Debug\net5.0\SovellusEsim1.csproj.CoreCompileInputs.cache
+C:\Users\heebo\Downloads\Palkka\SovellusEsim1\obj\Debug\net5.0\SovellusEsim1.dll
+C:\Users\heebo\Downloads\Palkka\SovellusEsim1\obj\Debug\net5.0\ref\SovellusEsim1.dll
+C:\Users\heebo\Downloads\Palkka\SovellusEsim1\obj\Debug\net5.0\SovellusEsim1.pdb
+C:\Users\heebo\Downloads\Palkka\SovellusEsim1\obj\Debug\net5.0\SovellusEsim1.genruntimeconfig.cache
